@@ -200,12 +200,12 @@ Open: **http://localhost:8501**
 
 ## 📞 Contact
 
-**Mayuresh Ahire**  
+**Sammed J K**  
 Data Analyst | Machine Learning
 
-- 🔗 **LinkedIn:** [linkedin.com/in/mayuresh-ahire-ab079b2a3/](https://www.linkedin.com/in/mayuresh-ahire-ab079b2a3/)
-- 🐙 **GitHub:** [github.com/mayuresh0711](https://github.com/mayuresh0711)
-- 📧 **Email:** ahiremayuresh4@gmail.com
+- 🔗 **LinkedIn:** [sammedhjk](https://www.linkedin.com/in/mayuresh-ahire-ab079b2a3/)
+- 🐙 **GitHub:** [sammedhjk-commits](https://github.com/mayuresh0711)
+- 📧 **Email:** sammedhjk@gmail.com
 
 ---
 
